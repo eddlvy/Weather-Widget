@@ -1,0 +1,1 @@
+{"latitude": 32.349995, "longitude": 34.85, "generationtime_ms": 0.07796287536621094, "utc_offset_seconds": 7200, "timezone": "Asia/Jerusalem", "timezone_abbreviation": "IST", "elevation": 30.0, "current_units": {"time": "iso8601", "interval": "seconds", "european_aqi": "EAQI"}, "current": {"time": "2024-01-11T22:00", "interval": 3600, "european_aqi": 29}}
